@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PathFinder</string>
+
+    <string name="google_map_key">AIzaSyC39AUvondUlXl8EE7dkk-VfUep6QydzQY</string>
+</resources>
