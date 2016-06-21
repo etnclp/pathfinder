@@ -104,7 +104,7 @@ public class MainActivity extends ActionBarActivity implements OnMapReadyCallbac
 
     private List<LatLng> decodePoly(String encoded) {
 
-        List<LatLng> poly = new ArrayList<LatLng>();
+        List<LatLng> poly = new ArrayList<>();
         int index = 0, len = encoded.length();
         int lat = 0, lng = 0;
 
